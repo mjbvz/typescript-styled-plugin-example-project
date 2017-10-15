@@ -4,8 +4,7 @@ Demonstrate how to use the [typescript-styled-plugin](https://github.com/Microso
 
 **Setup**
 
-1. 
-
+1. Run
     ``` bash
     $ cd typescript-styled-plugin-example-project
     $ npm install
