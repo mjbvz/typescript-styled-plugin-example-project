@@ -15,9 +15,9 @@ Demonstrate how to use the [typescript-styled-plugin](https://github.com/Microso
 
 3. In VS Code, open `index.js` and run the `Select TypeScript Version` command
 
-    ![](command.png)
+    ![](docs/command.png)
 
 4. Make sure the workspace version of TypeScript is active
 
-    ![](workspace-version.png)
+    ![](docs/workspace-version.png)
 
