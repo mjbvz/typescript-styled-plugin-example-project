@@ -1,0 +1,17 @@
+{
+  "name": "typescript-styled-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.3",
+    "typescript-styled-plugin": "^0.1.0"
+  },
+  "dependencies": {
+    "styled-components": "^2.2.1"
+  }
+}
